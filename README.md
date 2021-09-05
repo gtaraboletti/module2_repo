@@ -1,1 +1,68 @@
-# module2_repofake repo for module 2 of BCadding some text to the read me file as per instructions#  FinTech Repository## FinTech Repository ### FinTech Repository welcome to the repository *italicized font***bolded font**---a `print` function displays the text or variable passed in the function as output: ``` python text = 'This is a sentence that you would display.'print(text)```> "Here is a block quote. How fun." [hyperlink](https://www.google.com/)
+# Loan Qualifier Application 
+
+This project is about
+
+---
+
+## Technologies
+
+Application written in Python
+Required Libraries: [Fire](https://google.github.io/python-fire/guide/) and [Questionary](https://questionary.readthedocs.io/en/stable/)
+
+Fire turns functions into Command line interfaces
+Questionary adds more options/beautifies the command line interface 
+
+---
+
+## Installation Guide
+
+In the terminal/gitbash/command line 
+```
+pip install fire
+pip install questionary
+```
+
+---
+
+## Usage
+
+Open terminal/gitbash/command line etc. 
+navigate to the correct directory - where the program files are located.
+type in: 
+````
+python app.py
+```
+and press enter key
+Answer the questions with requested data by typing in your response and pressing enter after each response
+
+---
+
+## Contributors
+
+Giselle Taraboletti
+
+---
+
+## License
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
