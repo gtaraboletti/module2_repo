@@ -1,2 +1,1 @@
-# module2_repo
-fake repo for module 2 of BC
+# module2_repofake repo for module 2 of BCadding some text to the read me file as per instructions
